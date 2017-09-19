@@ -24,7 +24,7 @@ public class ExtractTest{
 		
 		CreateEmployeeArray("psychometric.csv");
 		GetEmployeeActivities();
-	    SortActivities();
+	        SortActivities();
 		PrintMap();
 		CreateCSVstring();
 		
